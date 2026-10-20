@@ -1,0 +1,4 @@
+data/prices.csv
+__pycache__/
+.DS_Store
+figures/brier_by_category.png
